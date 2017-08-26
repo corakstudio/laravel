@@ -1,0 +1,14 @@
+{
+    "name": "corakstudio/rising",
+    "description": "laravel 5.4",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "corak studio",
+            "email": "corak.studio33@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
