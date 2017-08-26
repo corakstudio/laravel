@@ -9,6 +9,10 @@
             "email": "corak.studio33@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "psr-4": {
+        "CorakStudio\\Rising\\": "src"
+    },
+    "require": {
+    "php": ">=5.6.0"
+    }
 }
