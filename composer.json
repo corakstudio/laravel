@@ -1,7 +1,7 @@
 {
     "name": "corakstudio/rising",
     "description": "laravel 5.4",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
