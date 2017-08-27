@@ -19,12 +19,12 @@
     },
     "autoload": {
         "psr-4": {
-            "CorakStudio\\Rising\\": "src"
+            "CorakStudio\\Rising\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "CorakStudio\\Rising\\": "tests"
+            "CorakStudio\\Rising\\": "tests/"
         }
     },
     "scripts": {
