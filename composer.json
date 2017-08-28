@@ -1,6 +1,6 @@
 {
     "name": "corakstudio/rising",
-    "description": "laravel 5.4 auth",
+    "description": "auth",
     "type": "library",
     "license": "MIT",
     "authors": [
